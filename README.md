@@ -54,3 +54,7 @@ Implement slicers for dynamic filtering by department, country, employee full na
 
 ## Conclusion:
 By transforming HR data into an insightful dashboard, the company will gain a clearer understanding of key metrics, trends, and workforce dynamics, facilitating data-driven decision-making. The dashboard will serve as a valuable tool for HR and management to monitor and analyze employee-related information.
+
+#DataAnalytics #BusinessInsights #PowerBIDashboard #DataAnalyst #Datascientist #Businessintelligence #BIanalyst #HRDASHBOARD #hranalysis #Employeedata #Powerbiproject #hrproject
+
+
